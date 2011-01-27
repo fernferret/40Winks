@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, FourtyWinks!</string>
-    <string name="app_name">FourtyWinks</string>
+    <string name="app_name">40Winks</string>
+    <string name="app_name_options">40Winks - Options</string>
+    <string name="app_name_add">40Winks - Add Alarm</string>
+    <string name="app_name_edit">40Winks - Edit Alarm</string>
+    <string name="app_name_list">40Winks - Alarms</string>
     
     <string name="phone_time">Use Phone Time</string>
     <string name="GMT">Greenwich Mean Time</string>
