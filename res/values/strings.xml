@@ -2,4 +2,19 @@
 <resources>
     <string name="hello">Hello World, FourtyWinks!</string>
     <string name="app_name">FourtyWinks</string>
+    
+    <string name="phone_time">Use Phone Time</string>
+    <string name="GMT">Greenwich Mean Time</string>
+	<string name="WAT">West Africa (GMT -1)</string>
+	<string name="AST">Atlantic (GMT -4)</string>
+	<string name="EST">Eastern (GMT -5)</string>
+	<string name="CST">Central (GMT -6)</string>
+	<string name="MST">Mountain (GMT -7)</string>
+	<string name="PST">Pacific (GMT -8)</string>
+	<string name="CET">Central Europe (GMT +1)</string>
+	<string name="EET">East Europe (GMT +2)</string>
+	<string name="CXT">Australia (GMT +7)</string>
+	<string name="CCT">China (GMT +8)</string>
+	<string name="JST">Japan (GMT +9)</string>
+	<string name="GST">Guam (GMT +10)</string>
 </resources>

@@ -1,3 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string-array
+		name="timezones">
+		<item>@string/phone_time</item>
+		<item>@string/GMT</item>
+		<item>@string/WAT</item>
+		<item>@string/AST</item>
+		<item>@string/EST</item>
+		<item>@string/CST</item>
+		<item>@string/MST</item>
+		<item>@string/PST</item>
+		<item>@string/CET</item>
+		<item>@string/EET</item>
+		<item>@string/CXT</item>
+		<item>@string/CCT</item>
+		<item>@string/JST</item>
+		<item>@string/GST</item>
+	</string-array>
 </resources>
