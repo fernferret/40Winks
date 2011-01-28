@@ -16,5 +16,11 @@ public class FourtyAlarmService extends Service {
 		// TODO: Replace with service implementation.
 		return null;
 	}
+	
+	@Override
+	public int onStartCommand(Intent intent, int flags, int startId) {
+		// TODO Auto-generated method stub
+		return super.onStartCommand(intent, flags, startId);
+	}
 
 }
