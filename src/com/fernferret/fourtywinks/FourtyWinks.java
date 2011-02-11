@@ -19,6 +19,8 @@ public class FourtyWinks extends Activity {
         setContentView(R.layout.main);
         mResources = getResources();
         
+        
+        
         mDrawer = (SlidingDrawer) findViewById(R.id.quick_drawer);
 
         mDrawer.setOnDrawerOpenListener(new OnDrawerOpenListener() {
