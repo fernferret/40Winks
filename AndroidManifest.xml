@@ -11,7 +11,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".FourtyAlarmReceiver">
+        <activity android:name="com.fernferret.fortywinks.FourtyAlarmReceiver">
         	<intent-filter>
         		<action android:name="com.fernferret.fourtywinks.ACTION_FIRE_ALARM"/>
         	</intent-filter>
